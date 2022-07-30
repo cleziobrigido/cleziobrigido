@@ -1,8 +1,8 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/cleziobrigido/"><i>Clezio Brigido</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/cleziobrigido/"><i>Clezio Brigido</i></a> 🤖</h1>
   <p align="center">Sou Desenvolvedor Salesforce e Mulesoft<a 
   </a><br>
-  <p align="center">Seja Bem vindo!😉️</h2>
+  <p align="center">Seja Bem vindo!🤖</h2>
 </div>
 
 
@@ -50,5 +50,5 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  
 </div>

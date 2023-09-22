@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/cleziobrigido/"><i>Clezio Brigido</i></a> 🤖</h1>
   <p align="center">Sou Desenvolvedor Salesforce e Mulesoft<a 
   </a><br>
-  <p align="center">Seja Bem vindo!🤖</h2>
+  <p align="center">Seja Bem vindo!</h2>
 </div>
 
 
